@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Reading Progress](https://raw.githubusercontent.com/bodoque-01/bodoque-
-  01/main/reading-progress.svg)
+![Reading Progress](https://raw.githubusercontent.com/bodoque-01/bodoque-01/main/reading-progress.svg)
 <!--
 **bodoque-01/bodoque-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

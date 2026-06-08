@@ -44,9 +44,9 @@
 <g filter="url(#glow-soft)">
 <text x="14" y="62" class="book">PROJECT HAIL MARY</text>
 <rect x="178" y="53" width="88" height="7" fill="#0a1a0d" stroke="#1d5c27" stroke-width="0.5"/>
-<rect x="178" y="53" width="34" height="7" fill="#1d5c27"/>
-<rect x="210" y="53" width="2" height="7" fill="#57ff6e"/>
-<text x="334" y="62" class="pages">215/543</text>
+<rect x="178" y="53" width="37" height="7" fill="#1d5c27"/>
+<rect x="213" y="53" width="2" height="7" fill="#57ff6e"/>
+<text x="334" y="62" class="pages">231/543</text>
 </g>
 <rect width="348" height="80" fill="url(#scanlines)"/>
 </svg>
